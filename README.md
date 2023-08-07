@@ -1,1 +1,1 @@
-# gh-pages-test
+docs/index.md
